@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Pham phuong anh",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmCMAdDMUMWg11cGTvr-GOq72-Qi49JgZfUA2cffElOTKYZi3RVxUFJ_tzzzbk8F6_z8&usqp=CAU",
+      "phoneNumber": "012345678",
+      "email": "phanh2@gmail.com",
+      "password": "1234567",
+      "status": true
+    },
+    {
+      "id": 2,
+      "username": "Nguyen phuong lan",
+      "avatar": "https://www.indiaseeds.com/uploads/man_(4).png",
+      "phoneNumber": "012345678",
+      "email": "phanlan@gmail.com",
+      "password": "1234567",
+      "status": true
+    },
+    {
+      "id": 3,
+      "username": "Le tu anh",
+      "avatar": "https://nhuavasuckhoe.vn/img/user.png",
+      "phoneNumber": "012345678",
+      "email": "phanh2345@gmail.com",
+      "password": "1234567",
+      "status": true
+    },
+    {
+      "id": 4,
+      "username": "Tran Anh Toan",
+      "avatar": "https://www.shareicon.net/data/512x512/2016/05/24/770137_man_512x512.png",
+      "phoneNumber": "012345678",
+      "email": "toan2345@gmail.com",
+      "password": "1234567",
+      "status": true
+    }
+  ]
+}
